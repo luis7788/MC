@@ -4,19 +4,19 @@ Trabalhos da unidade curricular de Matemática das Coisas 2023/2024 da Universid
 ## TP1
 
 * [enunciado]()
-* 
+
 * [relatório]()
 
 ## TP2
 
 * [enunciado]()
-* 
+
 * [relatório]()
 
 ## TP3
 
 * [enunciado]()
-* 
+
 * [relatório]()
 
 # MC (English)
