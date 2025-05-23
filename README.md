@@ -1,41 +1,41 @@
 # MC(Português)
 Trabalhos da unidade curricular de Matemática das Coisas 2023/2024 da Universidade do Minho no curso de Licenciatura em Engenharia Informática.
 
-## TP1
+## TP1 - Distâncias Inacessíveis
 
-* [enunciado1]()
+* [enunciado1](TP1/TP1-Proposta-2.pdf)
 
-* [relatório1]()
+* [relatório1](TP1/TP1-MC.pdf)
 
-## TP2
+## TP2 - Aplicação de modelos matemáticos em finanças
 
-* [enunciado2]()
+* [enunciado2](TP2/TP2-Proposta-2C.pdf)
 
-* [relatório2]()
+* [relatório2](TP2/TP2-MC.pdf)
 
-## TP3
+## TP3 - Equações diferenciais ordinárias
 
-* [enunciado3]()
+* [enunciado3](TP3/TP3-Proposta-3-SIR.pdf)
 
-* [relatório3]()
+* [relatório3](TP3/TP3-MC.pdf)
 
 # MC (English)
 Coursework for the Matemática das Coisas class, academic year 2023/2024, at the University of Minho.
 
 ## TP1
 
-* [assignment description1]()
+* [assignment description1](TP1/TP1-Proposta-2.pdf)
 
-* [report1]()
+* [report1](TP1/TP1-MC.pdf)
 
 ## TP2
 
-* [assignment description2]()
+* [assignment description2](TP2/TP2-Proposta-2C.pdf)
 
-* [report2]()
+* [report2](TP2/TP2-MC.pdf)
 
 ## TP3
 
-* [assignment description3]()
+* [assignment description3](TP3/TP3-Proposta-3-SIR.pdf)
 
-* [report3]()
+* [report3](TP3/TP3-MC.pdf)
