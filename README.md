@@ -3,39 +3,39 @@ Trabalhos da unidade curricular de Matemática das Coisas 2023/2024 da Universid
 
 ## TP1
 
-* [enunciado]()
+* [enunciado1]()
 
-* [relatório]()
+* [relatório1]()
 
 ## TP2
 
-* [enunciado]()
+* [enunciado2]()
 
-* [relatório]()
+* [relatório2]()
 
 ## TP3
 
-* [enunciado]()
+* [enunciado3]()
 
-* [relatório]()
+* [relatório3]()
 
 # MC (English)
 Coursework for the Matemática das Coisas class, academic year 2023/2024, at the University of Minho.
 
 ## TP1
 
-* [assignment description]()
+* [assignment description1]()
 
-* [report]()
+* [report1]()
 
 ## TP2
 
-* [assignment description]()
+* [assignment description2]()
 
-* [report]()
+* [report2]()
 
 ## TP3
 
-* [assignment description]()
+* [assignment description3]()
 
-* [report]()
+* [report3]()
