@@ -22,19 +22,19 @@ Trabalhos da unidade curricular de Matemática das Coisas 2023/2024 da Universid
 # MC(English)
 Coursework for the Matemática das Coisas class, academic year 2023/2024, at the University of Minho.
 
-## TP1
+## TP1 - Inaccessible Distances
 
 * [assignment description1](TP1/TP1-Proposta-2.pdf)
 
 * [report1](TP1/TP1-MC.pdf)
 
-## TP2
+## TP2 - Application of mathematical models in finance
 
 * [assignment description2](TP2/TP2-Proposta-2C.pdf)
 
 * [report2](TP2/TP2-MC.pdf)
 
-## TP3
+## TP3 - Ordinary differential equations
 
 * [assignment description3](TP3/TP3-Proposta-3-SIR.pdf)
 
